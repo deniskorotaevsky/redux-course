@@ -1,0 +1,23 @@
+
+body {
+  background-color: #b6b1b1;
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.delete {
+  color: red;
+  cursor: pointer;
+}
